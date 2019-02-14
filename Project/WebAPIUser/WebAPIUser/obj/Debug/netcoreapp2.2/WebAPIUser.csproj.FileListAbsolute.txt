@@ -1,0 +1,42 @@
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.deps.json
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.runtimeconfig.json
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.runtimeconfig.dev.json
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.dll
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.pdb
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.csprojAssemblyReference.cache
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.RazorAssemblyInfo.cache
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.RazorAssemblyInfo.cs
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.AssemblyInfoInputs.cache
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.AssemblyInfo.cs
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.RazorTargetAssemblyInfo.cache
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.dll
+C:\Users\Keerthana M.S\source\repos\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.pdb
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.deps.json
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.runtimeconfig.json
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.runtimeconfig.dev.json
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.dll
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.pdb
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.csprojAssemblyReference.cache
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.csproj.CoreCompileInputs.cache
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.RazorAssemblyInfo.cache
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.RazorAssemblyInfo.cs
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.AssemblyInfoInputs.cache
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.AssemblyInfo.cs
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.RazorTargetAssemblyInfo.cache
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.dll
+D:\KeerthuVS2017\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.pdb
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.deps.json
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.runtimeconfig.json
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.runtimeconfig.dev.json
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.dll
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\bin\Debug\netcoreapp2.2\WebAPIUser.pdb
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.csprojAssemblyReference.cache
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.csproj.CoreCompileInputs.cache
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.RazorAssemblyInfo.cache
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.RazorAssemblyInfo.cs
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.AssemblyInfoInputs.cache
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.AssemblyInfo.cs
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.RazorTargetAssemblyInfo.cache
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.dll
+D:\KeerthuVS2017\Project\WebAPIUser\WebAPIUser\obj\Debug\netcoreapp2.2\WebAPIUser.pdb
